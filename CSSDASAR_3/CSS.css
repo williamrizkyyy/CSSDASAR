@@ -1,0 +1,27 @@
+
+
+        div {
+            width: 80%;
+            margin: 0 auto;
+            height: 100px;
+        }
+
+        .bgcolor {
+            background-color: #ff4533;
+        }
+
+        .bgimage {
+            background-image: url ("batako.png");
+        }
+
+        .bgposition {
+            height: 350px;
+            background: url("loco.jpg") #820004 no-repeat left;
+            
+
+        }
+        .gradient1{ background:linear-gradient(to right, red, yellow,blue)}
+        .gradient2{ background:linear-gradient(to right, red, yellow, blue)}
+        
+
+        
